@@ -1,0 +1,1 @@
+export default function Contact(){return <main style={{maxWidth:800,margin:'40px auto',padding:16}}><h1>Contact</h1><p>Email support@explainmysite.app</p></main>}

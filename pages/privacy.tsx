@@ -1,0 +1,1 @@
+export default function Privacy(){return <main style={{maxWidth:800,margin:'40px auto',padding:16}}><h1>Privacy Policy</h1><p>Use the Privacy text provided on the canvas.</p></main>}

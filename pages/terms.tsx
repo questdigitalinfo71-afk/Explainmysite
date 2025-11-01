@@ -1,0 +1,1 @@
+export default function Terms(){return <main style={{maxWidth:800,margin:'40px auto',padding:16}}><h1>Terms of Use</h1><p>Use the Terms provided on the canvas.</p></main>}

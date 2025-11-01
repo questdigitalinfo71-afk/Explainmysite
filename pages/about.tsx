@@ -1,0 +1,1 @@
+export default function About(){return <main style={{maxWidth:800,margin:'40px auto',padding:16}}><h1>About ExplainMySite</h1><p>Turn any URL into a video script, then video.</p></main>}
