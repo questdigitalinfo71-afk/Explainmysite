@@ -1,21 +1,6 @@
-module.exports = { reactStrictMode: true }
-{
-"name": "explainmysite-web-full",
-"private": true,
-"version": "1.0.0",
-"scripts": {
-"dev": "next dev",
-"build": "next build",
-"start": "next start"
-},
-"dependencies": {
-"next": "14.2.5",
-"react": "18.3.1",
-"react-dom": "18.3.1"
-},
-"devDependencies": {
-"typescript": "^5.6.3",
-"@types/react": "^18.3.5",
-"@types/node": "^20.11.30"
-}
-}
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+};
+
+module.exports = nextConfig;
